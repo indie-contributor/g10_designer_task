@@ -58,7 +58,7 @@ G10 - умный трекер калорий, помощник в питании
     Некоторые идея, как можно сделать главный экран
     <div style="display:flex; gap:10px;">
     <video width="320" height="240" controls>
-        <source src="content/g10app_start_example.MP4" type="video/mp4">
+        <source src="content/g10app_start_example.mp4" type="video/mp4">
     </video>
    </div>
 
